@@ -1,24 +1,4 @@
-# README
+## Primeiro Repositorio no Github
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Nosso primeiro versionamento.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
